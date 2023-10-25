@@ -6,12 +6,8 @@
   다음과 같은 양식으로 작성해주세요
   
 ```html
-<!DOCTYPE html>
-<html>
-<body>
     <h3>학번_이름</h3>
-</body>
-</html>
+```
 - 관심분야(2가지)
   <pre>
     <code>
