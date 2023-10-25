@@ -4,15 +4,14 @@
 ## 문서 작성 규칙
 - 학번_이름
   다음과 같은 양식으로 작성해주세요
-  <pre>
-    <code>
-      <html>
-        <body>
-          <h3>학번_이름</h3>
-        </body>
-      </html>
-    </code>
-  </pre>
+  
+```html
+<!DOCTYPE html>
+<html>
+<body>
+    <h3>학번_이름</h3>
+</body>
+</html>
 - 관심분야(2가지)
   <pre>
     <code>
