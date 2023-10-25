@@ -1,0 +1,14 @@
+# 무시할 디렉토리
+/$RECYCLE.BIN/
+/AndroidHub/
+/Program Files/
+/UnityHub/
+/cpp/
+/git/
+/htmlHub/
+/javahub/
+/python/
+/rHub/
+
+# 무시할 파일
+20225172.zip
